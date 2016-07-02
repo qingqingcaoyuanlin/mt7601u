@@ -1,0 +1,1 @@
+cmd_/home/liu/STA/os/linux/mt7601Usta.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.13.0-32-generic/scripts/module-common.lds --build-id  -o /home/liu/STA/os/linux/mt7601Usta.ko /home/liu/STA/os/linux/mt7601Usta.o /home/liu/STA/os/linux/mt7601Usta.mod.o
